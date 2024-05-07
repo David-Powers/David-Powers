@@ -1,4 +1,4 @@
-### Hi there 👋
+### I am a 4th year student at the University of Iowa studying Business Analytics and Information Systems with a minor in Communication Studies. Upon my graduation in May of 2024, I will be embarking on a fulltime role in Charlotte, NC at Wells Fargo as a Risk and Control Managment Analyst.
 
 <!--
 **David-Powers/David-Powers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
