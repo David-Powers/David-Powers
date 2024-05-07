@@ -1,7 +1,7 @@
 ### HElLO 
 I am a 4th year student at the University of Iowa studying Business Analytics and Information Systems with a minor in Communication Studies. Upon my graduation in May of 2024, I will be embarking on a fulltime role in Charlotte, NC at Wells Fargo as a Risk and Control Managment Analyst.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/David-Powers/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/david-powers-10a3b91b9/)
 
 
 <!--
